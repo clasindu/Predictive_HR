@@ -210,7 +210,6 @@ Software Engineering Undergraduate
 
 GitHub: https://github.com/clasindu
 
-LinkedIn: https://www.linkedin.com/in/chamath-lasindu-rajapaksha
 
 ## 🔮 Future Improvements
 
